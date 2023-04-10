@@ -14,7 +14,7 @@ Output Table Structure:
 SELECT stud_id, fname,lname FROM Student;
 
 
-
+/*
 OUTPUT:
 +---------+---------+------------+
 | stud_id | fname   | lname      |
@@ -32,3 +32,4 @@ OUTPUT:
 |     506 | Shivam  | Deka       |
 |     254 | Oscar   | Daga       |
 +---------+---------+------------+
+*/
