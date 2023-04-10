@@ -18,7 +18,9 @@ Output Table Structure:
 
 SELECT * FROM Emp_data
 WHERE 
-Dept  IN('D1', 'D3');
+Dept ='D1' 
+OR
+Dept ='D3';
 
 
 
