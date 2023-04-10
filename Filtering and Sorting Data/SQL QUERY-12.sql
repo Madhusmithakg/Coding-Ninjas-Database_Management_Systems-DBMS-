@@ -1,5 +1,5 @@
 /*
-SQL Query - 10
+SQL Query - 12
 
 Problem Statement:
 Fetch all the records of the employees working for department D1 or D3 using the IN clause.
