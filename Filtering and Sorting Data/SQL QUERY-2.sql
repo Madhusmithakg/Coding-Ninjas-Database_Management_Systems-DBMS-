@@ -16,7 +16,7 @@ WHERE
 joining_year =2018;
 
 
-
+/*
 OUTPUT :
 +---------+--------+-------+----------------------+------------+
 | stud_id | fname  | lname | email                | ph_no      |
@@ -24,3 +24,4 @@ OUTPUT :
 |     423 | Gautam | Singh | gauti007@yahoo.com   | 8597656655 |
 |     506 | Shivam | Deka  | dekashivam@gmail.com | 6001245600 |
 +---------+--------+-------+----------------------+------------+
+*/
