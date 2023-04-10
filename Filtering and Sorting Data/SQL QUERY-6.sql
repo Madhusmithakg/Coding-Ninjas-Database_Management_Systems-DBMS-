@@ -1,6 +1,6 @@
 /*
 SQL Query - 6
-Send Feedback
+
 Problem Statement:
 Enlist all the students who joined the institute between the year 2009 and 2011.
 
