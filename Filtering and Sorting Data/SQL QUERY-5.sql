@@ -13,11 +13,11 @@ Output Table Structure:
 +---------+
 */
 
-SELECT stud_id,fname,lname,email,ph_no FROM Student
+SELECT stud_id FROM Student
 WHERE
-joining_year >2000
-AND 
-lname='Daga';
+joining_year = 2016
+OR 
+course='CS101';
 
 
 /*
